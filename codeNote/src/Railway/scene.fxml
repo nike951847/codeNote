@@ -148,16 +148,6 @@
                   <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
               </rowConstraints>
                <children>
-                  <ImageView fitHeight="37.0" fitWidth="155.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="9" GridPane.rowIndex="2">
-                     <image>
-                        <Image url="@photo/railroad_cut_turn.png" />
-                     </image>
-                  </ImageView>
-                  <ImageView fitHeight="155.0" fitWidth="31.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="4" GridPane.rowIndex="4">
-                     <image>
-                        <Image url="@photo/railroad_cut.png" />
-                     </image>
-                  </ImageView>
                   <Label text="exception" textFill="#37bc52" GridPane.columnIndex="2" GridPane.rowIndex="18" />
                   <Label text="MPI" textFill="#e2f47f" GridPane.columnIndex="10" GridPane.rowIndex="10" />
                   <Label text="thread" textFill="#bee66d" GridPane.columnIndex="10" GridPane.rowIndex="18" />
